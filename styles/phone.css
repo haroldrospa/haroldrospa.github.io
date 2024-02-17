@@ -1,0 +1,835 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 39rem;
+}.phone-i9C {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.phone-i9C .auto-group-ssva-FQ2 {
+  box-sizing: border-box;
+  padding: 5.1rem 0rem 3.34rem 0rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-ssva-FQ2 .auto-group-krcs-m7U {
+  margin: 0rem 2.9rem 3.836rem 1.9rem;
+  width: calc(100% - 4.8rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-ssva-FQ2 .auto-group-krcs-m7U .auto-group-4ybg-fCr {
+  margin: 0rem 2.2rem 0.806rem 0rem;
+  width: 18.6rem;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-ssva-FQ2 .auto-group-krcs-m7U .auto-group-4ybg-fCr .screen-shot-2024-02-13-at-829-2-o4A {
+  margin: 0rem 0rem 1.192rem 0.2rem;
+  width: 17.5078rem;
+  height: 5.3424rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.phone-i9C .auto-group-ssva-FQ2 .auto-group-krcs-m7U .auto-group-4ybg-fCr .auto-group-kjas-iaS {
+  width: 100%;
+  height: 8.7597rem;
+  position: relative;
+}
+.phone-i9C .auto-group-ssva-FQ2 .auto-group-krcs-m7U .auto-group-4ybg-fCr .auto-group-kjas-iaS .heading-2-operaciones-eU6 {
+  width: 18.6rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 4;
+  color: #3d6ced;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.phone-i9C .auto-group-ssva-FQ2 .auto-group-krcs-m7U .auto-group-4ybg-fCr .auto-group-kjas-iaS .heading-2-operaciones-vAi {
+  width: 6.4rem;
+  height: 6rem;
+  position: absolute;
+  left: 0;
+  top: 2.7597rem;
+  display: flex;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 4;
+  color: #3d6ced;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.phone-i9C .auto-group-ssva-FQ2 .auto-group-krcs-m7U .item-2024-02-13-1323-2-CP8 {
+  width: 13.4rem;
+  height: 13.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-ssva-FQ2 .section-oNv {
+  margin: 0rem 0.2rem 3.735rem 0rem;
+  box-sizing: border-box;
+  padding: 2.613rem 1.65rem 3.233rem 1.35rem;
+  width: 38.8rem;
+  height: 13.9456rem;
+  background: linear-gradient(83.34deg, #3d6ced 0%, #1d42ed 100%);
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-ssva-FQ2 .section-oNv .section-incorpora-ltima-tecnologa-en-combinacin-con--43x {
+  max-width: 35.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 2.7;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.phone-i9C .auto-group-ssva-FQ2 .heading-2-operaciones-TLz {
+  margin-right: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 4;
+  color: #3d6ced;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-3ynn-ND4 {
+  width: 100%;
+  height: 148.943rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-3ynn-ND4 .section-JsQ {
+  box-sizing: border-box;
+  padding-bottom: 0.7rem;
+  width: 39rem;
+  height: 146.443rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.phone-i9C .auto-group-3ynn-ND4 .section-JsQ .auto-group-j3ne-Em4 {
+  box-sizing: border-box;
+  padding: 0rem 9.36rem 17.3rem 9.7rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-3ynn-ND4 .section-JsQ .auto-group-j3ne-Em4 .pip-braker-1-mW6 {
+  margin: 0rem 0.24rem 3.352rem 0rem;
+  width: 19.7rem;
+  height: 32.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-3ynn-ND4 .section-JsQ .auto-group-j3ne-Em4 .future-fx-1-oSn {
+  margin: 0rem 0rem 3.505rem 0.388rem;
+  width: 19.552rem;
+  height: 32.3466rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-3ynn-ND4 .section-JsQ .auto-group-j3ne-Em4 .life-change-1-eTQ {
+  margin: 0rem 0rem 2.792rem 0.388rem;
+  width: 19.552rem;
+  height: 33.4481rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-3ynn-ND4 .section-JsQ .auto-group-j3ne-Em4 .button-NPQ {
+  margin: 0rem 3.74rem 0rem 4.1rem;
+  width: calc(100% - 7.84rem);
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 2.5;
+  text-transform: uppercase;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #3d6ced;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-3ynn-ND4 .section-JsQ .section-dq8 {
+  box-sizing: border-box;
+  padding: 0 11rem;
+  width: 100%;
+  height: 16.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: uppercase;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-3ynn-ND4 .divelementor-widget-wrap-une {
+  box-sizing: border-box;
+  padding: 1.35rem 0rem 3.25rem 0rem;
+  width: 34.8rem;
+  height: 12.8rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 136.143rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #3d6ced;
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.phone-i9C .auto-group-3ynn-ND4 .divelementor-widget-wrap-une .auto-group-wv8s-MPk {
+  margin: 0rem 2.1rem 0.65rem 2.1rem;
+  box-sizing: border-box;
+  padding: 0 8.5rem;
+  width: calc(100% - 4.2rem);
+  height: 3.05rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.4375;
+  color: #3d6ced;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-3ynn-ND4 .divelementor-widget-wrap-une .auto-group-hdvy-miN {
+  box-sizing: border-box;
+  padding: 0rem 5.3rem 0rem 7.4rem;
+  width: 100%;
+  height: 4.5rem;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-3ynn-ND4 .divelementor-widget-wrap-une .auto-group-hdvy-miN .nuestro-sistema-es-100-automtico-no-requiere-atencin-hrv {
+  max-width: 22.1rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 2.0454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.phone-i9C .auto-group-qu34-AVc {
+  box-sizing: border-box;
+  padding: 2rem 2.1rem 5.6rem 2.1rem;
+  width: 100%;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-qu34-AVc .divelementor-widget-wrap-H4S {
+  box-sizing: border-box;
+  padding: 1.45rem 5.9rem 2.15rem 6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3d6ced;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-qu34-AVc .divelementor-widget-wrap-H4S .ingresos-bav {
+  margin: 0rem 1.5rem 0.1rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.4375;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-qu34-AVc .divelementor-widget-wrap-H4S .genera-ingresos-pasivos-en-poco-tiempo-al-adquirir-nuestro-sistema-de-trading-automatizado-ta2 {
+  max-width: 22.9rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 2.0454545455;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-qu34-AVc .divelementor-widget-wrap-uV8 {
+  box-sizing: border-box;
+  padding: 1.65rem 0rem 1.6rem 0rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.2rem #3d6ced;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-qu34-AVc .divelementor-widget-wrap-uV8 .auto-group-gx1l-2Jr {
+  margin: 0 2.1rem;
+  box-sizing: border-box;
+  padding: 0rem 12.6rem 0rem 11.5rem;
+  width: calc(100% - 4.2rem);
+  height: 2.75rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.4375;
+  color: #3d6ced;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-qu34-AVc .divelementor-widget-wrap-uV8 .auto-group-4whk-hA6 {
+  box-sizing: border-box;
+  padding: 0rem 7.8rem 0rem 5.5rem;
+  width: 100%;
+  height: 6.8rem;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-qu34-AVc .divelementor-widget-wrap-uV8 .auto-group-4whk-hA6 .tenemos-un-personal-de-soporte-24-7-disponible-para-responder-sus-dudas-y-resolver-sus-problemas-d3k {
+  max-width: 21.5rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 2.0454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.phone-i9C .auto-group-qu34-AVc .divelementor-widget-wrap-GMc {
+  box-sizing: border-box;
+  padding: 0.75rem 6rem 2.15rem 6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #3d6ced;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-qu34-AVc .divelementor-widget-wrap-GMc .rentabilidad-Ph8 {
+  margin: 0rem 1.3rem 0.8rem 0rem;
+  display: flex;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.4375;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-qu34-AVc .divelementor-widget-wrap-GMc .nuestro-sistema-est-diseado-para-generar-y-crear-oportunidades-rentables-para-el-mayor-beneficio-de-los-usuarios-UyU {
+  max-width: 22.8rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 2.0454545455;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG {
+  width: 70.445rem;
+  height: 218.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-cyC {
+  box-sizing: border-box;
+  padding: 0.483rem 1.3rem 104.7rem 2.1rem;
+  width: 39rem;
+  height: 167.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-cyC .heading-2-cuentas-auditadas-79G {
+  margin: 0rem 0.8rem 2.917rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 3.125;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-cyC .section-resultados-100-reales-sin-atajos-con-ms-de-de-8-meses-de-trackrecord-en-broker-AdL {
+  margin: 0rem 0.9rem 5.7rem 0rem;
+  max-width: 30.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 500;
+  line-height: 2.25;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-cyC .auto-group-ho2e-d18 {
+  margin-bottom: 2.7rem;
+  width: 100%;
+  height: 16rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-cyC .auto-group-ho2e-d18 .item-2024-02-13-1420-6-LgE {
+  width: 21.4rem;
+  height: 7.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-cyC .auto-group-ho2e-d18 .item-2024-02-13-1420-7-qN6 {
+  width: 17.8rem;
+  height: 6.7rem;
+  position: absolute;
+  left: 0;
+  top: 8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-cyC .auto-group-ho2e-d18 .item-2024-02-13-1420-8-kzr {
+  width: 16.7rem;
+  height: 16rem;
+  position: absolute;
+  left: 18.9rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-cyC .auto-group-yivj-HUz {
+  margin: 0rem 1rem 0rem 0.9rem;
+  width: calc(100% - 1.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-cyC .auto-group-yivj-HUz .item-2024-02-13-1420-6-BaN {
+  margin: 0rem 1.4rem 0.3rem 0rem;
+  width: 9.6rem;
+  height: 16.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-cyC .auto-group-yivj-HUz .item-2024-02-13-1421-2-h2v {
+  margin-right: 1.3rem;
+  width: 10rem;
+  height: 16.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-cyC .auto-group-yivj-HUz .item-2024-02-13-1420-5-4na {
+  width: 11.4rem;
+  height: 14.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-B6W {
+  box-sizing: border-box;
+  padding: 5.15rem 2.4rem 8.35rem 6rem;
+  width: 41rem;
+  height: 63.1rem;
+  position: absolute;
+  left: 0;
+  top: 71.6rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(237, 237, 237, 0.9300000072);
+}
+.phone-i9C .auto-group-kwm8-5yG .section-B6W .heading-2-preguntas-frecuentes-riS {
+  margin-bottom: 2.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-B6W .link-necesito-permanecer-frente-a-la-computadora-constantemente-mqQ {
+  margin: 0rem 9rem 1.5rem 0rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.6363636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-B6W .section-tablist-tabpanel-debido-a-que-el-bot-funciona-de-manera-automtica-no-necesitas-estar-en-el-computador-todo-el-tiempo-solo-necesitas-de-vez-en-cuando-GGN {
+  margin: 0rem 3.1rem 1.45rem 0rem;
+  max-width: 29.5rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 2.0454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-B6W .link-necesito-permanecer-frente-a-la-computadora-constantemente-WAi {
+  margin: 0rem 7rem 3.05rem 0rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.6363636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-B6W .section-tablist-tabpanel-debido-a-que-el-bot-funciona-de-manera-automtica-no-necesitas-estar-en-el-computador-todo-el-tiempo-solo-necesitas-de-vez-en-cuando-tSA {
+  margin: 0rem 4.7rem 3.1rem 0rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 2.0454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-B6W .link-necesito-permanecer-frente-a-la-computadora-constantemente-WiS {
+  margin: 0rem 21.8rem 2.6rem 0rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.6363636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-B6W .section-tablist-tabpanel-debido-a-que-el-bot-funciona-de-manera-automtica-no-necesitas-estar-en-el-computador-todo-el-tiempo-solo-necesitas-de-vez-en-cuando-D74 {
+  margin: 0rem 1.5rem 2.65rem 0rem;
+  max-width: 31.1rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 2.0454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-B6W .link-necesito-permanecer-frente-a-la-computadora-constantemente-pce {
+  margin: 0rem 14.7rem 2.6rem 0rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 700;
+  line-height: 1.6363636364;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-B6W .section-tablist-tabpanel-debido-a-que-el-bot-funciona-de-manera-automtica-no-necesitas-estar-en-el-computador-todo-el-tiempo-solo-necesitas-de-vez-en-cuando-tcW {
+  max-width: 32.6rem;
+  display: flex;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 2.0454545455;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-KSv {
+  box-sizing: border-box;
+  padding: 2.074rem 5.4rem 4.481rem 5.4rem;
+  width: 63.7rem;
+  height: 25.7805rem;
+  position: absolute;
+  left: 0;
+  top: 134.7rem;
+  background: linear-gradient(259.8deg, #3d6ced 100%, #1d42ed 200%);
+}
+.phone-i9C .auto-group-kwm8-5yG .section-KSv .auto-group-sq7k-S1k {
+  margin: 0rem 0rem 2.65rem 1.1rem;
+  width: 26.2rem;
+  height: 13.4759rem;
+  position: relative;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-KSv .auto-group-sq7k-S1k .heading-2-funding-traders-team-jFk {
+  width: 11.4rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 7.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 3.4375;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-KSv .auto-group-sq7k-S1k .section-expertos-en-el-mundo-de-trading-enseando-lo-que-realmente-funciona-1yx {
+  width: 26.2rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 0;
+  top: 5.3759rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 2.4545454545;
+  color: #ffffff;
+  font-family: Poppins, 'Source Sans Pro';
+}
+.phone-i9C .auto-group-kwm8-5yG .section-KSv .auto-group-cwga-uJe {
+  width: 26.9rem;
+  height: 3.1rem;
+  position: relative;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-KSv .auto-group-cwga-uJe .divelementor-widget-wrap-2u4 {
+  box-sizing: border-box;
+  padding: 0.4rem 7.767rem 0.339rem 1rem;
+  width: 17.467rem;
+  height: 2.939rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: rgba(234, 234, 234, 0.9179999828);
+  border-radius: 5rem;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-KSv .auto-group-cwga-uJe .divelementor-widget-wrap-2u4 .link-rectangulo-65png-uCA {
+  margin-right: 1rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-rectangulo-65png-9dG.png');
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-KSv .auto-group-cwga-uJe .divelementor-widget-wrap-2u4 .instagram-oHY {
+  margin-bottom: 0.1rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.8;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-KSv .auto-group-cwga-uJe .divelementor-widget-wrap-h82 {
+  box-sizing: border-box;
+  padding: 0.5rem 1.3rem 0.2rem 0.9rem;
+  width: 10.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 16rem;
+  top: 0.2rem;
+  display: flex;
+  align-items: center;
+  background-color: rgba(234, 234, 234, 0.9179999828);
+  border-radius: 5rem;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-KSv .auto-group-cwga-uJe .divelementor-widget-wrap-h82 .link-objectspng-Lwg {
+  margin-right: 1rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  position: relative;
+  background-size: 100% 100%;
+  background-image: url('../assets/link-objectspng.png');
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-KSv .auto-group-cwga-uJe .divelementor-widget-wrap-h82 .instagram-dQz {
+  margin-bottom: 0.3rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.8;
+  color: #000000;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-4WJ {
+  width: 70.445rem;
+  height: 59.6rem;
+  position: absolute;
+  left: 0;
+  top: 158.8rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ededed;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-4WJ .auto-group-pg6a-bFL {
+  box-sizing: border-box;
+  padding: 1.842rem 9.6rem 6.53rem 9.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-4WJ .auto-group-pg6a-bFL .section-heading-2-descargo-de-responsabilidad-vHc {
+  margin: 0rem 26.352rem 1.885rem 0rem;
+  max-width: 11.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.3076923077;
+  color: #3967ee;
+  font-family: Poppins, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-4WJ .auto-group-pg6a-bFL .section-al-usar-nuestro-software-usted-asume-todos-los-riesgos-del-comercio-no-hay-garantas-en-el-comercio-y-nuestros-resultados-pasados-no-garantizan-resultados-futuros-no-tenemos-QTg {
+  margin: 0rem 24.045rem 1.373rem 0rem;
+  max-width: 27.2rem;
+  display: flex;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-4WJ .auto-group-pg6a-bFL .section-heading-2-trminos-de-uso-Ehc {
+  margin: 0rem 26.945rem 1.67rem 0rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2142857143;
+  color: #3967ee;
+  font-family: Poppins, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-4WJ .auto-group-pg6a-bFL .section-para-acceder-y-beneficiarse-plenamente-de-nuestros-servicios-es-imprescindible-completar-el-proceso-de-conozca-a-su-cliente-kyc-sin-la-debida-verificacin-kyc-lamentablemente-icn {
+  margin-right: 24.845rem;
+  max-width: 26.2rem;
+  display: flex;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #000000;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-4WJ .section-vTx {
+  box-sizing: border-box;
+  padding: 1.4rem 0rem 0rem 11.7rem;
+  width: 100%;
+  height: 7rem;
+  background-color: #006cf7;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-4WJ .section-vTx .section-s8J {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-4WJ .section-vTx .section-s8J .item-2024-02-13-1449-1-2Wz {
+  margin-right: 3.2593rem;
+  width: 3.8407rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-4WJ .section-vTx .section-s8J .heading-2-all-rights-reserved-2023-wtr {
+  margin: 1.2rem 35.345rem 0rem 0rem;
+  display: flex;
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.3;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.phone-i9C .auto-group-kwm8-5yG .section-4WJ .section-vTx .section-s8J .link-Cpn {
+  margin-top: 0.6rem;
+  width: 5rem;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 1;
+  color: #ffffff;
+  font-family: Font Awesome 5 Brands, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #006cf7;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
